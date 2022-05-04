@@ -1,0 +1,5 @@
+name: deploy to ECS cluster
+on: 
+ push:
+   branches:
+     - main
